@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\Home.task1\bin\Debug\net8.0\Home.task1.exe
+C:\Users\Admin\Desktop\C#\Home.task1\bin\Debug\net8.0\Home.task1.deps.json
+C:\Users\Admin\Desktop\C#\Home.task1\bin\Debug\net8.0\Home.task1.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Home.task1\bin\Debug\net8.0\Home.task1.dll
+C:\Users\Admin\Desktop\C#\Home.task1\bin\Debug\net8.0\Home.task1.pdb
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.dll
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\refint\Home.task1.dll
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.pdb
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\ref\Home.task1.dll
