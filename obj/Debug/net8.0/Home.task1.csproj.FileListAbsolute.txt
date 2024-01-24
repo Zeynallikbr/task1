@@ -12,3 +12,4 @@ C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\refint\Home.task1.dll
 C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.pdb
 C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.genruntimeconfig.cache
 C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\ref\Home.task1.dll
+C:\Users\Admin\Desktop\C#\Home.task1\obj\Debug\net8.0\Home.task1.sourcelink.json
