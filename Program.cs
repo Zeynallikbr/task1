@@ -3,48 +3,49 @@
     internal class Program
     {
         static void Main(string[] args)
-          
+
         {
-            string Man = " oglu";
-            string Woman = " qizi";
+           Console.WriteLine("Adinizi daxil edin");
+           string name = Console.ReadLine();
 
-            Console.WriteLine("Adinizi daxil edin");
-            string name = Console.ReadLine();
+           Console.WriteLine("Soyadinizi daxil edin");
+           string surname = Console.ReadLine();
 
-            Console.WriteLine("Soyadinizi daxil edin");
-            string surname = Console.ReadLine();
+           Console.WriteLine("Ata adini daxil edin");
+           string fatherName = Console.ReadLine();
 
-            Console.WriteLine("Ata adini daxil edin");
-            string fatherName = Console.ReadLine();
+           Console.WriteLine("Cinsiyeti daxil edin");
+           string gender = Console.ReadLine();
 
-           /* if (fatherName == Man)
-            {
-                Console.WriteLine("oglu");
-            }
-            else
-            {
-                Console.WriteLine("qizi");
-            }*/
-            Console.WriteLine("Cinsiyeti daxil edin");
-            string gender = Console.ReadLine();
-
-            if(gender == Man)
-            {
-                Console.WriteLine(" oglu");
-            }
-            else
-            {
-                Console.WriteLine(" qizi");
-            }
-            Console.WriteLine("Dogum tarixini daxil edin");
-            string Birthday = Console.ReadLine();
+           string child = " ";
+           if(gender == "man")
+           {
+                child = " oglu";
+           }
+           else
+           {
+                child = " qizi";
+           }
 
 
-            Console.WriteLine("Unvani  daxil edin");
-            string adress = Console.ReadLine();
+           Console.WriteLine("Dogum tarixini daxil edin"));
+           int birthday = Console.ReadLine();
 
-            Console.WriteLine(name +" " + surname + " " + fatherName + gender);
-           // Console.WriteLine(Birthday + " doğulduğunuz üçün hal-hazida 18 yasiniz var" );
+            //dogum tarixi
+            DateTime adgunum = new  DateTime(birthday);
+
+            //indiki tarix 
+            DateTime indikiTarix = DateTime.Now;
+
+            //yas hesablama 
+            int yas =indikiTarix.Year - adgunum.Year;
+
+           Console.WriteLine("Unvani  daxil edin");
+           string adress = Console.ReadLine();
+
+           Console.WriteLine(surname + " " + name + " " + fatherName  + child);
+           Console.WriteLine(birthday + " doguldugunuz ucun " + yas + "-iniz var" );
+
 
         }
     }
